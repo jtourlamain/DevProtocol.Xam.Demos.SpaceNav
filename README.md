@@ -4,6 +4,8 @@
 ## What is this?
 A Xamarin Forms demo application to show how you can use a custom font type in the title of the NavigationPage.
 
+![spacenav](docs/spacenav.png)
+
 ## Contributors
 
 - Jan Tourlamain
