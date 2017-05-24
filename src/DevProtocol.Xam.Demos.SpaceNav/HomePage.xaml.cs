@@ -11,5 +11,10 @@ namespace DevProtocol.Xam.Demos.SpaceNav
         {
             InitializeComponent();
         }
+
+        async void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            await this.Navigation.PushAsync(new DetailPage());
+        }
     }
 }
