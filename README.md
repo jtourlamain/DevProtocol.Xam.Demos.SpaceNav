@@ -11,7 +11,7 @@ A Xamarin Forms demo application to show how you can use a custom font type in t
 - Jan Tourlamain
 
 ## More info
-[http://www.devprotocol.com/change-the-font-type-of-a-navigationpage-title-in-xamarin-forms/](http://www.devprotocol.com/change-the-font-type-of-a-navigationpage-title-in-xamarin-forms/)
+[https://www.devprotocol.com/2017/05/24/change-the-font-type-of-a-navigationpage-title-in-xamarin-forms.html](https://www.devprotocol.com/2017/05/24/change-the-font-type-of-a-navigationpage-title-in-xamarin-forms.html)
 
 ## License
 Under MIT (See [LICENSE.md](LICENSE.md))
